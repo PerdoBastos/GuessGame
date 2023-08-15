@@ -1,0 +1,8 @@
+D:\Visual Studio\Projects\GuessGame\GuessGame\bin\Debug\GuessGame.exe.config
+D:\Visual Studio\Projects\GuessGame\GuessGame\bin\Debug\GuessGame.exe
+D:\Visual Studio\Projects\GuessGame\GuessGame\bin\Debug\GuessGame.pdb
+D:\Visual Studio\Projects\GuessGame\GuessGame\obj\Debug\GuessGame.csproj.AssemblyReference.cache
+D:\Visual Studio\Projects\GuessGame\GuessGame\obj\Debug\GuessGame.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio\Projects\GuessGame\GuessGame\obj\Debug\GuessGame.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Projects\GuessGame\GuessGame\obj\Debug\GuessGame.exe
+D:\Visual Studio\Projects\GuessGame\GuessGame\obj\Debug\GuessGame.pdb
